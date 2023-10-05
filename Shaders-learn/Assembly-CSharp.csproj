@@ -94,6 +94,7 @@
     <None Include="Assets/Shaders/Shader42Unlit.shader" />
     <None Include="Assets/Shaders/Shader35Unlit.shader" />
     <None Include="Assets/Shaders/Shader53Lit.shader" />
+    <None Include="Assets/Shaders/Shader1Unlit.shader" />
     <None Include="Assets/Shaders/Shader15Unlit.shader" />
     <None Include="Assets/Shaders/Shader17Unlit.shader" />
     <None Include="Assets/Shaders/Shader19Unlit.shader" />
