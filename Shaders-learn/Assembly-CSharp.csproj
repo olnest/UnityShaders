@@ -863,9 +863,6 @@
     <Reference Include="UnityEditor.Purchasing">
       <HintPath>Library/ScriptAssemblies/UnityEditor.Purchasing.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.VSCode.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="Analytics">
       <HintPath>Library/ScriptAssemblies/Analytics.dll</HintPath>
     </Reference>
